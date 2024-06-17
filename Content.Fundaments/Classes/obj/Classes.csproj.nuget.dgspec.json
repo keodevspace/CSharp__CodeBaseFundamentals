@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Classes\\Classes.csproj": {}
+    "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Classes\\Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Classes\\Classes.csproj": {
+    "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Classes\\Classes.csproj",
+        "projectUniqueName": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Classes\\Classes.csproj",
         "projectName": "Classes",
-        "projectPath": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Classes\\Classes.csproj",
+        "projectPath": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\keo.almeida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Classes\\obj\\",
+        "outputPath": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keo.almeida\\AppData\\Roaming\\NuGet\\NuGet.Config"

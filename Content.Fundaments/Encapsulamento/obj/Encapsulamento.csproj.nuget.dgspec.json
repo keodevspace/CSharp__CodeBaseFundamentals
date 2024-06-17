@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Encapsulamento\\Encapsulamento.csproj": {}
+    "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Encapsulamento\\Encapsulamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Encapsulamento\\Encapsulamento.csproj": {
+    "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Encapsulamento\\Encapsulamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Encapsulamento\\Encapsulamento.csproj",
+        "projectUniqueName": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Encapsulamento\\Encapsulamento.csproj",
         "projectName": "Encapsulamento",
-        "projectPath": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Encapsulamento\\Encapsulamento.csproj",
+        "projectPath": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Encapsulamento\\Encapsulamento.csproj",
         "packagesPath": "C:\\Users\\keo.almeida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Encapsulamento\\obj\\",
+        "outputPath": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Encapsulamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keo.almeida\\AppData\\Roaming\\NuGet\\NuGet.Config"

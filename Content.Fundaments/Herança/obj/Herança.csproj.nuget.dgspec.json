@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Herança\\Herança.csproj": {}
+    "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Herança\\Herança.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Herança\\Herança.csproj": {
+    "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Herança\\Herança.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Herança\\Herança.csproj",
+        "projectUniqueName": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Herança\\Herança.csproj",
         "projectName": "Herança",
-        "projectPath": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Herança\\Herança.csproj",
+        "projectPath": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Herança\\Herança.csproj",
         "packagesPath": "C:\\Users\\keo.almeida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Herança\\obj\\",
+        "outputPath": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Herança\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keo.almeida\\AppData\\Roaming\\NuGet\\NuGet.Config"

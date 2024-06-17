@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Exemplos.OO\\Exemplos.OO.csproj": {}
+    "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Exemplos.OO\\Exemplos.OO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Exemplos.OO\\Exemplos.OO.csproj": {
+    "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Exemplos.OO\\Exemplos.OO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Exemplos.OO\\Exemplos.OO.csproj",
+        "projectUniqueName": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Exemplos.OO\\Exemplos.OO.csproj",
         "projectName": "Exemplos.OO",
-        "projectPath": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Exemplos.OO\\Exemplos.OO.csproj",
+        "projectPath": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Exemplos.OO\\Exemplos.OO.csproj",
         "packagesPath": "C:\\Users\\keo.almeida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Exemplos.OO\\obj\\",
+        "outputPath": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Exemplos.OO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keo.almeida\\AppData\\Roaming\\NuGet\\NuGet.Config"

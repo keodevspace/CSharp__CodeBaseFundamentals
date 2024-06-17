@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Abstracao\\Abstracao.csproj": {}
+    "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Abstracao\\Abstracao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Abstracao\\Abstracao.csproj": {
+    "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Abstracao\\Abstracao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Abstracao\\Abstracao.csproj",
+        "projectUniqueName": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Abstracao\\Abstracao.csproj",
         "projectName": "Abstracao",
-        "projectPath": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Abstracao\\Abstracao.csproj",
+        "projectPath": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Abstracao\\Abstracao.csproj",
         "packagesPath": "C:\\Users\\keo.almeida\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Abstracao\\obj\\",
+        "outputPath": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Abstracao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\keo.almeida\\AppData\\Roaming\\NuGet\\NuGet.Config"

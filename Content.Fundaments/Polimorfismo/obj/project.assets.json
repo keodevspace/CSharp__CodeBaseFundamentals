@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Polimorfismo\\Polimorfismo.csproj",
+      "projectUniqueName": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Polimorfismo\\Polimorfismo.csproj",
       "projectName": "Polimorfismo",
-      "projectPath": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Polimorfismo\\Polimorfismo.csproj",
+      "projectPath": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Polimorfismo\\Polimorfismo.csproj",
       "packagesPath": "C:\\Users\\keo.almeida\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\keo.almeida\\Documents\\ESTUDOS\\Revisoes\\Revisoes\\Polimorfismo\\obj\\",
+      "outputPath": "C:\\Users\\keo.almeida\\OneDrive\\Documentos\\ESTUDOS\\CodeBaseCsharp\\Content.Fundaments\\Polimorfismo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\keo.almeida\\AppData\\Roaming\\NuGet\\NuGet.Config"
