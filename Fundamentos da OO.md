@@ -1,9 +1,3 @@
-[[[https://balta.io/player/assistir/08317b43-0ff7-41e1-9d9e-736e5980f0d2|Link do curso]]
-[[https://github.com/balta-io/2802|Link GitHub]]
-
-👾
-✔️
-
 #### 👾Paradigmas de OO👾
 ✔️Encapsulamento
 ✔️Abstração

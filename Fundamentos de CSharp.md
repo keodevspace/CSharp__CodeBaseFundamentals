@@ -1,6 +1,3 @@
-[[https://balta.io/player/assistir/5ef614da-366d-6156-d049-694800000000/62df2c02-5a32-4a1e-9558-000028010531|Link do Curso]] 
-[[https://github.com/balta-io/2801|Link do GitHub]] 
-
 Linguagem de Programação é um intermediário entre linguagem humana e linguagem binária. Esse processo de tradução se chama <mark class="hltr-purple">COMPILAÇÃO</mark>. Cada compilador trabalha de forma diferente e tem suas características.
 
 #### Alto e Baixo Nível
