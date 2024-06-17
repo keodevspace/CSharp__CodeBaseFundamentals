@@ -1,0 +1,15 @@
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\bin\Debug\net8.0\Abstracao.exe
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\bin\Debug\net8.0\Abstracao.deps.json
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\bin\Debug\net8.0\Abstracao.runtimeconfig.json
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\bin\Debug\net8.0\Abstracao.dll
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\bin\Debug\net8.0\Abstracao.pdb
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\obj\Debug\net8.0\Abstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\obj\Debug\net8.0\Abstracao.AssemblyInfoInputs.cache
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\obj\Debug\net8.0\Abstracao.AssemblyInfo.cs
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\obj\Debug\net8.0\Abstracao.csproj.CoreCompileInputs.cache
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\obj\Debug\net8.0\Abstracao.sourcelink.json
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\obj\Debug\net8.0\Abstracao.dll
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\obj\Debug\net8.0\refint\Abstracao.dll
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\obj\Debug\net8.0\Abstracao.pdb
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\obj\Debug\net8.0\Abstracao.genruntimeconfig.cache
+C:\Users\keo.almeida\Documents\ESTUDOS\Revisoes\Revisoes\Abstracao\obj\Debug\net8.0\ref\Abstracao.dll
